@@ -36,3 +36,9 @@ Spécifications : écran carré de 128 pixels, 16 couleurs, 4 canaux sonores.
 - Gestion des ressources graphiques et sonores.
 
 ### Démonstration
+
+
+https://github.com/geraldinegautier/Projet-collectif-Pico-8/assets/158101084/0f232c9f-0f80-42c6-90cb-4cfba8604f57
+
+
+
